@@ -12,7 +12,7 @@ class AdapterInUS
 public:
     void specificUse()
     {
-        cout << "No, you can use the adapter in the U.S." <<endl;
+        cout << "Now, you can use the adapter in the U.S." <<endl;
     }
 };
 
